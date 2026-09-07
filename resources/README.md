@@ -12,4 +12,7 @@ The goal is not to duplicate course material. Instead, each resource is used to 
 - **Stanford CS336: Language Modeling from Scratch — Spring 2026**  
   A complementary, more rigorous course covering the end-to-end language-modeling pipeline, including data, tokenization, model construction, training, systems considerations, scaling, and evaluation.
 
-See `stanford_cs336_spring_2026.md` for how CS336 is being integrated into this learning lab.
+  - Integration overview: `stanford_cs336_spring_2026.md`
+  - Executable Lecture 01 notes: `stanford_cs336/lecture_01_executable_overview_spring_2024.md`
+
+> Note: the executable `lecture_01.py` currently used for Lecture 01 identifies itself as the Spring 2024 version of CS336. It is retained as a source because its executable-lecture structure and core conceptual material are directly useful for this learning lab, while the Spring 2026 course remains the main current Stanford track we are following.
